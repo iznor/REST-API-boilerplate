@@ -21,5 +21,12 @@
   },
   "bin":{
     "create-boilerplate": "./generate-app.js"
+  },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iznor/REST-API-boilerplate.git"
   }
 }

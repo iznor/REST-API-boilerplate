@@ -12,7 +12,7 @@ if (process.argv.length < 3) {
 const projectName = process.argv[2];
 const currentPath = process.cwd();
 const projectPath = path.join(currentPath, projectName);
-const git_repo = YOUR_GIT_URL;
+const git_repo = 'https://github.com/iznor/REST-API-boilerplate.git';
 
 try {
     fs.mkdirSync(projectPath);
