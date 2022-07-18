@@ -1,4 +1,4 @@
 node_modules
-cahce
+.cache
 dist
 build
