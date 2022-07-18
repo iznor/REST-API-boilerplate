@@ -20,7 +20,7 @@
     "parcel-bundler": "^1.12.5"
   },
   "bin":{
-    "create-boilerplate": "./generate-app.js"
+    "create-boilerplate": "./iznor-api.js"
   },
   "publishConfig": {
     "registry":"https://npm.pkg.github.com"
